@@ -48,7 +48,7 @@ Ckeditor.setup do |config|
 
   # CKEditor CDN
   # More info here http://cdn.ckeditor.com/
-  # By default: nil (CDN disabled)
+  # By default: nil (CDN disabled)blabla
   # config.cdn_url = '//cdn.ckeditor.com/<%= Ckeditor::Version::EDITOR %>/standard/ckeditor.js'
 
   # JS config url
